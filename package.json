@@ -1,0 +1,15 @@
+{
+  "name": "errors",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@apollo/gateway": "^2.4.7",
+    "@apollo/server": "^4.7.3",
+    "@apollo/subgraph": "^2.4.7",
+    "graphql": "^16.6.0",
+    "nodemon": "^2.0.22",
+    "typescript": "^5.1.3"
+  }
+}

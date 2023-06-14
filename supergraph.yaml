@@ -1,0 +1,9 @@
+federation_version: =2.4.7
+subgraphs:
+  subgraph:
+    routing_url: http://localhost:4101/
+    schema:
+      sdl: |
+        type Query {
+          hello: String!
+        }
